@@ -1,0 +1,227 @@
+.elementor-1643 .elementor-element.elementor-element-2b03a90:not(.elementor-motion-effects-element-type-background),
+.elementor-1643 .elementor-element.elementor-element-2b03a90>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #B0B5FD21;
+}
+
+.elementor-1643 .elementor-element.elementor-element-2b03a90>.elementor-background-overlay {
+    background-image: url("https://dunmedic.strongtheme.com/wp-content/uploads/2021/04/icodun03.png");
+    background-size: cover;
+    opacity: 0.2;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1643 .elementor-element.elementor-element-2b03a90 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 20px 50px 20px;
+}
+
+.elementor-bc-flex-widget .elementor-1643 .elementor-element.elementor-element-4d3275a.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4d3275a.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-1643 .elementor-element.elementor-element-aa8f8f1 {
+    text-align: left;
+}
+
+.elementor-1643 .elementor-element.elementor-element-aa8f8f1 .elementor-heading-title {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-1643 .elementor-element.elementor-element-aa8f8f1>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1643 .elementor-element.elementor-element-fef243e .elementor-heading-title {
+    color: #00142B;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group {
+    padding-right: calc( 10px/2);
+    padding-left: calc( 10px/2);
+    margin-bottom: 10px;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-form-fields-wrapper {
+    margin-left: calc( -10px/2);
+    margin-right: calc( -10px/2);
+    margin-bottom: -10px;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0;
+}
+
+body.rtl .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-labels-inline .elementor-field-group>label {
+    padding-left: 0px;
+}
+
+body:not(.rtl) .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-labels-inline .elementor-field-group>label {
+    padding-right: 0px;
+}
+
+body .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-labels-above .elementor-field-group>label {
+    padding-bottom: 0px;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-type-html {
+    padding-bottom: 0px;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group .elementor-field {
+    color: var( --e-global-color-text);
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group .elementor-field,
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-subgroup label {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #FFFFFFC7;
+    border-color: var( --e-global-color-7d13982);
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #FFFFFFC7;
+    border-color: var( --e-global-color-7d13982);
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group .elementor-select-wrapper::before {
+    color: var( --e-global-color-7d13982);
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button {
+    font-family: var( --e-global-typography-856d99b-font-family), Sans-serif;
+    font-size: var( --e-global-typography-856d99b-font-size);
+    font-weight: var( --e-global-typography-856d99b-font-weight);
+    line-height: var( --e-global-typography-856d99b-line-height);
+    letter-spacing: var( --e-global-typography-856d99b-letter-spacing);
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .e-form__buttons__wrapper__button-next {
+    background-color: var( --e-global-color-7d13982);
+    color: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button[type="submit"] {
+    background-color: var( --e-global-color-7d13982);
+    color: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button[type="submit"] svg * {
+    fill: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .e-form__buttons__wrapper__button-previous {
+    color: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .e-form__buttons__wrapper__button-next:hover {
+    background-color: var( --e-global-color-primary);
+    color: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button[type="submit"]:hover {
+    background-color: var( --e-global-color-primary);
+    color: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button[type="submit"]:hover svg * {
+    fill: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 .e-form__buttons__wrapper__button-previous:hover {
+    color: #ffffff;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4128cc6 {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px;
+}
+
+.elementor-1643 .elementor-element.elementor-element-21b722d {
+    text-align: center;
+    z-index: 2;
+}
+
+.elementor-1643 .elementor-element.elementor-element-21b722d img {
+    width: 76%;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4c681dd img {
+    width: 100%;
+}
+
+.elementor-1643 .elementor-element.elementor-element-4c681dd {
+    width: 267px;
+    max-width: 267px;
+    top: 56px;
+}
+
+body:not(.rtl) .elementor-1643 .elementor-element.elementor-element-4c681dd {
+    left: 50px;
+}
+
+body.rtl .elementor-1643 .elementor-element.elementor-element-4c681dd {
+    right: 50px;
+}
+
+#elementor-popup-modal-1643 .dialog-message {
+    width: 729px;
+    height: 462px;
+    align-items: flex-start;
+}
+
+#elementor-popup-modal-1643 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-1643 .dialog-close-button {
+    display: block;
+}
+
+#elementor-popup-modal-1643 .dialog-widget-content {
+    animation-duration: 1.2s;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+@media(max-width:1024px) {
+    .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group .elementor-field,
+    .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-subgroup label {
+        font-size: var( --e-global-typography-accent-font-size);
+    }
+    .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button {
+        font-size: var( --e-global-typography-856d99b-font-size);
+        line-height: var( --e-global-typography-856d99b-line-height);
+        letter-spacing: var( --e-global-typography-856d99b-letter-spacing);
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-group .elementor-field,
+    .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-field-subgroup label {
+        font-size: var( --e-global-typography-accent-font-size);
+    }
+    .elementor-1643 .elementor-element.elementor-element-4128cc6 .elementor-button {
+        font-size: var( --e-global-typography-856d99b-font-size);
+        line-height: var( --e-global-typography-856d99b-line-height);
+        letter-spacing: var( --e-global-typography-856d99b-letter-spacing);
+    }
+}
